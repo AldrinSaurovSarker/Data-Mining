@@ -3,47 +3,48 @@
    [https://www.bangla-kobita.com/famouspoets/](https://www.bangla-kobita.com/famouspoets/)
 
 
+
 [2] Data Collected From:
 
-    সুকান্ত ভট্টাচার্য
+   [সুকান্ত ভট্টাচার্য](https://www.bangla-kobita.com/sukanta/)
     
-    মাইকেল মধুসূদন দত্ত
+   [মাইকেল মধুসূদন দত্ত](https://www.bangla-kobita.com/madhusudan/)
     
-    ঈশ্বরচন্দ্র গুপ্ত
+   [ঈশ্বরচন্দ্র গুপ্ত]()
     
-    নির্মলেন্দু গুণ
+   [নির্মলেন্দু গুণ](https://www.bangla-kobita.com/nirmalendugoon/)
     
-    জসীমউদ্দীন
+   [জসীমউদ্দীন](https://www.bangla-kobita.com/jasimuddin/)
     
-    জয় গোস্বামী
+   [জয় গোস্বামী](https://www.bangla-kobita.com/joygoswami/)
     
-    সুনীল গঙ্গোপাধ্যায়
+   [সুনীল গঙ্গোপাধ্যায়](https://www.bangla-kobita.com/sunilgangopadhyay/)
     
-    মোহাম্মদ রফিকউজ্জামান
+   [মোহাম্মদ রফিকউজ্জামান](https://www.bangla-kobita.com/rafiquzzaman/)
     
-    হেলাল হাফিজ
+   [হেলাল হাফিজ](https://www.bangla-kobita.com/helalhafiz/)
     
-    আবিদ আনোয়ার
+   [আবিদ আনোয়ার](https://www.bangla-kobita.com/abid50anwar/)
     
-    শক্তি চট্টোপাধ্যায়
+   [শক্তি চট্টোপাধ্যায়](https://www.bangla-kobita.com/shaktichattopadhyay/)
     
-    সৈয়দ শামসুল হক
+   [সৈয়দ শামসুল হক](https://www.bangla-kobita.com/shamsulhaque/)
     
-    রুদ্র মুহম্মদ শহিদুল্লাহ
+   [রুদ্র মুহম্মদ শহিদুল্লাহ](https://www.bangla-kobita.com/rudramohammad/)
     
-    সত্যেন্দ্রনাথ দত্ত
+   [সত্যেন্দ্রনাথ দত্ত](https://www.bangla-kobita.com/satyendranath/)
     
-    রাধারানী দেবী
+   [রাধারানী দেবী](https://www.bangla-kobita.com/radharanidevi/)
     
-    সুফিয়া কামাল
+   [সুফিয়া কামাল](https://www.bangla-kobita.com/sufiakamal/)
     
-    অসীম সাহা
+   [অসীম সাহা](https://www.bangla-kobita.com/asimsaha/)
     
-    কামিনী রায়
+   [কামিনী রায়](https://www.bangla-kobita.com/kaminiroy/)
     
-    যতীন্দ্রমোহন বাগচী
+   [যতীন্দ্রমোহন বাগচী](https://www.bangla-kobita.com/jatindramohan/)
     
-    ঈশ্বরচন্দ্র গুপ্ত
+   [ঈশ্বরচন্দ্র গুপ্ত](https://www.bangla-kobita.com/ishwarchandragupta/)
 
 
 [3] Category of data:
