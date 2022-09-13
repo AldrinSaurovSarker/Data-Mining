@@ -3,7 +3,6 @@
    [https://www.bangla-kobita.com/famouspoets/](https://www.bangla-kobita.com/famouspoets/)
 
 
-
 [2] Data Collected From:
 
    [সুকান্ত ভট্টাচার্য](https://www.bangla-kobita.com/sukanta/)
