@@ -1,56 +1,85 @@
 [1] Website Chosen:
+
     https://www.bangla-kobita.com/famouspoets/
 
 
 [2] Data Collected From:
+
     সুকান্ত ভট্টাচার্য
+    
     মাইকেল মধুসূদন দত্ত
+    
     ঈশ্বরচন্দ্র গুপ্ত
+    
     নির্মলেন্দু গুণ
+    
     জসীমউদ্দীন
+    
     জয় গোস্বামী
+    
     সুনীল গঙ্গোপাধ্যায়
+    
     মোহাম্মদ রফিকউজ্জামান
+    
     হেলাল হাফিজ
+    
     আবিদ আনোয়ার
+    
     শক্তি চট্টোপাধ্যায়
+    
     সৈয়দ শামসুল হক
+    
     রুদ্র মুহম্মদ শহিদুল্লাহ
+    
     সত্যেন্দ্রনাথ দত্ত
+    
     রাধারানী দেবী
+    
     সুফিয়া কামাল
+    
     অসীম সাহা
+    
     কামিনী রায়
+    
     যতীন্দ্রমোহন বাগচী
+    
     ঈশ্বরচন্দ্র গুপ্ত
 
 
 [3] Category of data:
+    
     Bengali Poems
 
 
 [4] Total data collected (without preprocessing):
-    1083
+    
+    1083 poems
 
 
 [5] Time to collect data:
+    
     813.0180985927582 seconds
 
 
 [6] Attributes in CSV file:
+    
     BanglaKobita.csv            ['Title', 'Author', 'Poem']
+    
     AuthorInformation.csv       ['Name', 'Birth date', 'Birth place', 'Death date']
 
 
 [7] Total word counts:
+    
     1,64,275
 
 
 [8] Average word length:
+    
     5.76640424708557
 
 
 [9] Extracted information:
+    
     I've collected these following types of information. All information are represented with a bar chart and a
     dictionary.
 
